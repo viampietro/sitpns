@@ -6,7 +6,7 @@ including its structure, its formal semantics, and an additional verified
 token player program.
 
 The SITPN formalism is used in the description of critical digital
-system models in the HILECOP methodology [Leroux15][Leroux15]. The
+system models in the HILECOP methodology [\[Leroux15\]](Leroux15). The
 HILECOP methodology is a full fledged process to design, analyze and
 synthetize critical digital systems.
 
@@ -53,4 +53,4 @@ URL "http://www.cecill.info".
 
 ## Bibliography
 
-[Leroux15]: H. Leroux, D. Andreu, et K. Godary-Dejean, « Handling Exceptions in Petri Net-Based Digital Architecture: From Formalism to Implementation on FPGAs », IEEE Transactions on Industrial Informatics, vol. 11, nᵒ 4, p. 897‑906, août 2015, doi: 10.1109/TII.2015.2435696.
+<a name="Leroux15"></a>[Leroux15] H. Leroux, D. Andreu, et K. Godary-Dejean, « Handling Exceptions in Petri Net-Based Digital Architecture: From Formalism to Implementation on FPGAs », IEEE Transactions on Industrial Informatics, vol. 11, nᵒ 4, p. 897‑906, août 2015, doi: 10.1109/TII.2015.2435696.
