@@ -6,7 +6,7 @@ including its structure, its formal semantics, and an additional verified
 token player program.
 
 The SITPN formalism is used in the description of critical digital
-system models in the HILECOP methodology [\[Leroux15\]](Leroux15). The
+system models in the HILECOP methodology [\[Leroux15\]](#Leroux15). The
 HILECOP methodology is a full fledged process to design, analyze and
 synthetize critical digital systems.
 
